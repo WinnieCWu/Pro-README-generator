@@ -19,7 +19,7 @@ const questions = [
         return false;
       }
     },
-    //make this the title of User's README-- how?
+    //this will be the title of User's README
   },
   {
     name: `description`,
